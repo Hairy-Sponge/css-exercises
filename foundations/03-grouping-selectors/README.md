@@ -18,3 +18,10 @@ This will help you further practice adding classes and using class selectors, so
 - Does each element have a unique class name?
 - Did you use the grouping selector for styles that both elements share?
 - Did you make separate rules for the styles unique to each element?
+
+
+
+
+give two elements each a unique class name
+add rules for styles that both elements share
+add rules for unique styles for both elements
